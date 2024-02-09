@@ -20,7 +20,6 @@ Welcome to GodmodeOnePatcher, a custom firmware installer for Xbox One, Xbox One
  - A 32GB or more USB Flash Drive formatted as FAT32
  - A Xbox One, Xbox One S, Xbox One X, Xbox Series S, or Xbox Series X Console
  - Python3
- - A Linux Terminal
 
 ## Installation
 
@@ -56,5 +55,5 @@ Welcome to GodmodeOnePatcher, a custom firmware installer for Xbox One, Xbox One
 If you encounter any problems during the installation process, consider the following steps:
 
 - Ensure that your USB device path is valid and accessible.
-- Check your internet connection for downloading necessary files.
-- Verify that your Xbox console is compatible with GodmodeOnePatcher.
+- Check that the required files are there.
+- Ensure you have all the requirements. 
