@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to GodmodeOnePatcher, a custom firmware installer for Xbox One, Xbox One S & X, and Xbox Series S & X. This tool enables your Xbox console to load homebrew applications, fostering a community of independent developers and enthusiasts.
+Welcome to GodmodeOnePatcher, a custom firmware installer for Xbox One, Xbox One S & X, and Xbox Series S & X. This tool enables your Xbox console to load homebrew applications and external software.
 
 **Disclaimer: This firmware does not enable piracy. Using homebrew applications that enable piracy is illegal and not supported.**
 
@@ -13,8 +13,9 @@ Welcome to GodmodeOnePatcher, a custom firmware installer for Xbox One, Xbox One
 - Supports Xbox One, Xbox One S & X, and Xbox Series S & X consoles.
 - Allows for external apps to run without Dev Mode.
 - Allows for custom themes.
-- Allows for bootable media to be loaded.
+- Allows for bootable media to be loaded and installed.
 - Allows for custom patches.
+- Allows for UWP apps.
 
 ## Requirements
  - A 32GB or more USB Flash Drive formatted as FAT32
