@@ -11,7 +11,10 @@ Welcome to GodmodeOnePatcher, a custom firmware installer for Xbox One, Xbox One
 
 - Easy installation process.
 - Supports Xbox One, Xbox One S & X, and Xbox Series S & X consoles.
-- Secure certificate verification to ensure the integrity of the firmware.
+- Allows for external apps to run without Dev Mode.
+- Allows for custom themes.
+- Allows for bootable media to be loaded.
+- Allows for custom patches.
 
 ## Requirements
  - A 32GB or more USB Flash Drive formatted as FAT32
